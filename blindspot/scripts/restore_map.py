@@ -1,0 +1,1 @@
+"""Restoration map entry point."""
